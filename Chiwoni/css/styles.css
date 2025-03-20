@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+button{
+    background-color: rgb(1, 8, 46) ;
+    margin: 20px;
+
+}
+.sign-up{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.container{
+    border: cornsilk;
+}
+
+
+
+
